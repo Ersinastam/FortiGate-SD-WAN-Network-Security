@@ -9,3 +9,15 @@ Bu proje, iki farklı ISP hattı üzerinde FortiGate SD-WAN mimarisi kullanılar
 
 <img width="1658" height="803" alt="image" src="https://github.com/user-attachments/assets/289a4bfe-830b-4b35-9415-fbd1c960a007" />
 <img width="1646" height="345" alt="image" src="https://github.com/user-attachments/assets/fdfd9f8e-cad8-482e-a158-f0752ba0487b" />
+
+
+<img width="1660" height="49" alt="image" src="https://github.com/user-attachments/assets/6c9d5230-04af-4f2f-b7bf-55f4f0416eb2" />
+
+<img width="1654" height="734" alt="image" src="https://github.com/user-attachments/assets/01691f0f-c27a-4a57-8da2-16a673379ab8" />
+<img width="1649" height="290" alt="image" src="https://github.com/user-attachments/assets/1a6f1bfe-43fb-4cc2-aef7-ad96275f8c97" />
+
+
+<img width="1582" height="829" alt="image" src="https://github.com/user-attachments/assets/97a7c8b5-b6d5-4498-a188-41f40bd797dc" />
+<img width="1653" height="242" alt="image" src="https://github.com/user-attachments/assets/d6cb25d7-2fbc-4aea-b8e7-bf926139577a" />
+
+
