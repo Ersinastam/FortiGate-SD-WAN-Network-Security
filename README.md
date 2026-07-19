@@ -8,7 +8,7 @@ Bu proje, iki farklı ISP hattı üzerinde FortiGate SD-WAN mimarisi kullanılar
 
 SD-WAN (Software-Defined Wide Area Network), geleneksel WAN mimarilerinin aksine, ağ trafiğini kontrol düzlemi (control plane) üzerinden yöneten yazılım tabanlı bir teknolojidir.
 
-Projedeki Kullanım Amacımız:
+### Projedeki Kullanım Amacımız:
 
 Geleneksel yapılarda trafik genellikle statik rotalar üzerinden (sabit hatlardan) akar. Ancak bu projede SD-WAN'ı şu amaçlarla kurduk:
 
