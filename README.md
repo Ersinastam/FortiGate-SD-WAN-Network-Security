@@ -20,19 +20,10 @@ Geleneksel yapılarda trafik genellikle statik rotalar üzerinden (sabit hatlard
 
 Bu proje ile geleneksel statik yönlendirme yerine, dinamik, esnek ve hat sağlığına duyarlı bir ağ altyapısı kurgulanmıştır.
 
-<img width="1668" height="829" alt="image" src="https://github.com/user-attachments/assets/039c484b-bc92-4f7f-b5a5-b1479c1c2f57" />
-
-<img width="1658" height="803" alt="image" src="https://github.com/user-attachments/assets/289a4bfe-830b-4b35-9415-fbd1c960a007" />
-<img width="1646" height="345" alt="image" src="https://github.com/user-attachments/assets/fdfd9f8e-cad8-482e-a158-f0752ba0487b" />
+<img width="1920" height="1181" alt="image" src="https://github.com/user-attachments/assets/57a901d6-b8e7-41c7-965d-729b0d70b010" />
 
 
-<img width="1660" height="49" alt="image" src="https://github.com/user-attachments/assets/6c9d5230-04af-4f2f-b7bf-55f4f0416eb2" />
-
-<img width="1654" height="734" alt="image" src="https://github.com/user-attachments/assets/01691f0f-c27a-4a57-8da2-16a673379ab8" />
-<img width="1649" height="290" alt="image" src="https://github.com/user-attachments/assets/1a6f1bfe-43fb-4cc2-aef7-ad96275f8c97" />
 
 
-<img width="1582" height="829" alt="image" src="https://github.com/user-attachments/assets/97a7c8b5-b6d5-4498-a188-41f40bd797dc" />
-<img width="1653" height="242" alt="image" src="https://github.com/user-attachments/assets/d6cb25d7-2fbc-4aea-b8e7-bf926139577a" />
 
 
