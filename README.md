@@ -20,19 +20,19 @@ Geleneksel yapılarda trafik genellikle statik rotalar üzerinden (sabit hatlard
 
 Bu proje ile geleneksel statik yönlendirme yerine, dinamik, esnek ve hat sağlığına duyarlı bir ağ altyapısı kurgulanmıştır.
 
-Kritik İş Uygulamaları için SD-WAN Trafik Yönetimi
+### Kritik İş Uygulamaları için SD-WAN Trafik Yönetimi
 
 <img width="1920" height="1181" alt="image" src="https://github.com/user-attachments/assets/57a901d6-b8e7-41c7-965d-729b0d70b010" />
 
 Bu kural, Zoom, Microsoft Teams ve Cisco Webex gibi gecikmeye duyarlı (latency-sensitive) iş uygulamalarının trafik akışını yönetmektedir. Lowest Cost (SLA) stratejisi ile yapılandırılan bu politika; Google_Dns üzerinden anlık olarak izlenen hat kalitesi (jitter, latency, packet loss) verilerini baz alır. Böylece, kritik görüşmelerin her zaman en yüksek performanslı WAN hattı üzerinden gerçekleştirilmesi sağlanarak, hat kaynaklı kopmaların önüne geçilmiş ve kullanıcı deneyimi garanti altına alınmıştı
 
-Misafir Ağı (Guest Network) İçin Trafik İzolasyonu
+### Misafir Ağı (Guest Network) İçin Trafik İzolasyonu
 
 <img width="1920" height="775" alt="image" src="https://github.com/user-attachments/assets/e828a095-5607-4b92-8d0c-4cbc91cc985a" />
 
 Kurumsal ağın güvenliğini ve ana iş trafiğinin performansını korumak amacıyla, misafir kullanıcılar için özel bir trafik politikası oluşturulmuştur. Bu politika, misafir trafiğini Manual stratejisi ile yedek hat (WAN2) üzerinden yönlendirerek, ana hattın (WAN1) kapasitesini kurumsal ihtiyaçlara (ERP, Zoom, Teams vb.) ayırmaktadır. Böylece, misafir kullanıcıların yoğun internet kullanımı kurumsal operasyonlarda herhangi bir darboğaza (bottleneck) sebebiyet vermemektedir.
 
-Genel İnternet Trafiği için Yük Dengeleme (Load Balancing)
+### Genel İnternet Trafiği için Yük Dengeleme (Load Balancing)
 
 <img width="1920" height="1139" alt="image" src="https://github.com/user-attachments/assets/a06525c9-9d00-4cf5-b021-ce5e39ebc097" />
 
